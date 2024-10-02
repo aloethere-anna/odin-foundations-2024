@@ -1,0 +1,47 @@
+
+body{
+    background-color: #EFEFE6;
+}
+h1{
+    padding: 12px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-stretch: ultra-expanded;
+}
+img{
+    border-radius: 5% 5%;
+}
+.card{
+    text-align: center;
+    margin: auto;
+}
+nav{
+    padding-bottom: 20px;
+}
+h2{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 36px;
+    font-stretch: expanded;
+}
+#desc{
+    margin-top: 20%;
+    margin-bottom: auto;
+    margin-right: 20%;
+    padding: 12px
+}
+h3{
+    padding-top: 12px;
+    padding-bottom: 8px;
+}
+h4{
+    font-weight: lighter;
+}
+#steps{
+    background-color: #D3C5CA;
+    padding: 12px;
+    border-radius: 5% 5%;
+}
+footer{
+    padding-top: 20px;
+}
